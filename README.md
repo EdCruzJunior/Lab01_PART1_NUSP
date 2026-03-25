@@ -74,6 +74,17 @@ Script:
 ```
 transform_silver.py
 ```
+<img width="868" height="599" alt="image" src="https://github.com/user-attachments/assets/7c0d1ba5-6f9e-4773-8f8a-27a52963bd12" />
+
+<img width="832" height="600" alt="image" src="https://github.com/user-attachments/assets/8902cf45-52ca-4656-a521-2a012d66c501" />
+
+<img width="816" height="586" alt="image" src="https://github.com/user-attachments/assets/9caffa0a-526b-40a5-b41f-fee2a78b019e" />
+
+<img width="837" height="592" alt="image" src="https://github.com/user-attachments/assets/6f80bc88-53bb-4d9e-976e-e346f341e1e9" />
+
+<img width="813" height="585" alt="image" src="https://github.com/user-attachments/assets/b51a7860-4e1a-4de5-adfa-4227561c111c" />
+
+
 
 Exemplo:
 
@@ -132,8 +143,6 @@ Tecnologias utilizadas:
 * Python
 * Apache Arrow
 * COPY do PostgreSQL
-
-📸 Inserir print da execução do ETL
 
 ---
 
