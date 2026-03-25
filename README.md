@@ -280,7 +280,7 @@ data/silver/acidentes.parquet
 ### 2️⃣ Criar estrutura do Data Warehouse
 
 ```
-python create_schema.py
+PLSQL create_schema.sql
 ```
 
 Cria:
@@ -345,7 +345,7 @@ project
 │
 ├── scripts
 │   ├── transform_silver.py
-│   ├── create_schema.py
+│   ├── create_schema.sql
 │   └── etl_load_dw.py
 │
 ├── requirements.txt
