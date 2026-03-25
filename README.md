@@ -319,8 +319,13 @@ Consultas analíticas possíveis:
 * horários mais perigosos
 * municípios com mais vítimas fatais
 * principais causas de acidentes
+  
+```
+SQL_Acidentes_Fatais_Municipios.sql
+SQL_Acidentes_Rodovia.sql
 
----
+```
+
 
 # Tecnologias Utilizadas
 
