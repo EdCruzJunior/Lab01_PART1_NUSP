@@ -53,7 +53,8 @@ Exemplo:
 df = pd.read_csv("acidentes_rodovias.csv")
 ```
 
-📸 Inserir print da execução do script
+<img width="1382" height="646" alt="image" src="https://github.com/user-attachments/assets/0a130188-638b-433e-b21c-b5d4b43121dc" />
+
 
 ---
 
@@ -81,7 +82,8 @@ df.columns = df.columns.str.lower()
 df.to_parquet("data/silver/acidentes.parquet")
 ```
 
-📸 Inserir print da geração do arquivo parquet
+<img width="1485" height="518" alt="image" src="https://github.com/user-attachments/assets/92abccc2-4d9d-4da4-8a73-bd46b28d3dd9" />
+
 
 ---
 
@@ -121,7 +123,7 @@ O script ETL:
 Script:
 
 ```
-etl_load_dw.py
+etl_load_dw_Gold.py
 ```
 
 Tecnologias utilizadas:
