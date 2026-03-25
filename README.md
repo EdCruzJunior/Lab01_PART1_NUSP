@@ -53,7 +53,8 @@ Exemplo:
 df = pd.read_csv("acidentes_rodovias.csv")
 ```
 
-📸 Inserir print da execução do script
+<img width="1382" height="646" alt="image" src="https://github.com/user-attachments/assets/0a130188-638b-433e-b21c-b5d4b43121dc" />
+
 
 ---
 
